@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-27T03:58:26 IST" name="Suite" finished-at="2024-07-27T03:59:12 IST" duration-ms="45920">
+    <groups>
+    </groups>
+    <test started-at="2024-07-27T03:58:26 IST" name="Test" finished-at="2024-07-27T03:59:12 IST" duration-ms="45920">
+      <class name="Scenarios.handlingDynData">
+        <test-method signature="dynData()[pri:0, instance:Scenarios.handlingDynData@7d8995e]" started-at="2024-07-27T03:58:26 IST" name="dynData" finished-at="2024-07-27T03:58:37 IST" duration-ms="11114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dynData -->
+      </class> <!-- Scenarios.handlingDynData -->
+      <class name="Scenarios.SwitchingWin">
+        <test-method signature="switchWin()[pri:0, instance:Scenarios.SwitchingWin@3c19aaa5]" started-at="2024-07-27T03:58:37 IST" name="switchWin" finished-at="2024-07-27T03:59:02 IST" duration-ms="25142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- switchWin -->
+      </class> <!-- Scenarios.SwitchingWin -->
+      <class name="Scenarios.MouseHover">
+        <test-method signature="dynData()[pri:0, instance:Scenarios.MouseHover@3349e9bb]" started-at="2024-07-27T03:59:02 IST" name="dynData" finished-at="2024-07-27T03:59:12 IST" duration-ms="9578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dynData -->
+      </class> <!-- Scenarios.MouseHover -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
