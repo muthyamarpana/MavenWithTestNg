@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-21T07:37:49 IST" name="Suite" finished-at="2025-08-21T07:38:30 IST" duration-ms="40928">
+    <groups>
+    </groups>
+    <test started-at="2025-08-21T07:37:49 IST" name="Test" finished-at="2025-08-21T07:38:30 IST" duration-ms="40928">
+      <class name="testScenarios.SwitchingWindows">
+        <test-method signature="switchWin()[pri:0, instance:testScenarios.SwitchingWindows@5c6648b0]" started-at="2025-08-21T07:37:49 IST" name="switchWin" finished-at="2025-08-21T07:37:57 IST" duration-ms="7701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- switchWin -->
+      </class> <!-- testScenarios.SwitchingWindows -->
+      <class name="testScenarios.HandlingRadAndChkBoxes">
+        <test-method signature="setRadBtnAndChkBox()[pri:0, instance:testScenarios.HandlingRadAndChkBoxes@7b2bbc3]" started-at="2025-08-21T07:38:13 IST" name="setRadBtnAndChkBox" finished-at="2025-08-21T07:38:30 IST" duration-ms="16882" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setRadBtnAndChkBox -->
+      </class> <!-- testScenarios.HandlingRadAndChkBoxes -->
+      <class name="testScenarios.DynDataHandling">
+        <test-method signature="dynDataCap()[pri:0, instance:testScenarios.DynDataHandling@48f2bd5b]" started-at="2025-08-21T07:38:10 IST" name="dynDataCap" finished-at="2025-08-21T07:38:13 IST" duration-ms="2793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dynDataCap -->
+      </class> <!-- testScenarios.DynDataHandling -->
+      <class name="testScenarios.FindAllLinks">
+        <test-method signature="fetchAndDispLinkUrlAndNames()[pri:0, instance:testScenarios.FindAllLinks@692f203f]" started-at="2025-08-21T07:38:07 IST" name="fetchAndDispLinkUrlAndNames" finished-at="2025-08-21T07:38:10 IST" duration-ms="3527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchAndDispLinkUrlAndNames -->
+      </class> <!-- testScenarios.FindAllLinks -->
+      <class name="testScenarios.MouseHoverActions">
+        <test-method signature="dragAndDrop()[pri:1, instance:testScenarios.MouseHoverActions@4c583ecf]" started-at="2025-08-21T07:37:57 IST" name="dragAndDrop" finished-at="2025-08-21T07:38:01 IST" duration-ms="4397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragAndDrop -->
+        <test-method signature="datePicker()[pri:2, instance:testScenarios.MouseHoverActions@4c583ecf]" started-at="2025-08-21T07:38:01 IST" name="datePicker" finished-at="2025-08-21T07:38:07 IST" duration-ms="5561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datePicker -->
+      </class> <!-- testScenarios.MouseHoverActions -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

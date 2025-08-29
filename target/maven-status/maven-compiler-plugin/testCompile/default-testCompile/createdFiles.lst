@@ -1,0 +1,5 @@
+testScenarios\HandlingRadAndChkBoxes.class
+testScenarios\MouseHoverActions.class
+testScenarios\FindAllLinks.class
+testScenarios\SwitchingWindows.class
+testScenarios\DynDataHandling.class
